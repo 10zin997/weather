@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+Pull this final 
+>>>>>>> 494c93f9deec19745ae5d7b7e7cb06e7afb68f9b
 
 #  Weather App
 Get your FREE weatherAPI (https://openweathermap.org)
