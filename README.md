@@ -1,6 +1,8 @@
+Pull this
+
 #  Weather App
-# Get your FREE weatherAPI (https://openweathermap.org)
-# API are written is jSON, so its a good idea to get jSON extension to read it clearly.
+Get your FREE weatherAPI (https://openweathermap.org)
+API are written is jSON, so its a good idea to get jSON extension to read it clearly.
 
 ## Our Goal
 The goal is use API(Application Programming Interfaces) to fetch current weather data of the entire world.So how does api work? Basically, your app sends some data you wanted to a server, the server reads the data and performs the appropriate actions and sends it back to your app, the app reads it and changes into a readable data to you.
