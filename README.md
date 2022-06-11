@@ -3,8 +3,8 @@
 # API are written is jSON, so its a good idea to get jSON extension to read it clearly.
 
 ## Our Goal
-The goal is use API(Application Programming Interfaces).So how does api work? Basically, your app sends some data you wanted to a server, the server reads the data and performs the apporpropate actions and sends it back to your app, the app reads it and changes into a readable data to you.
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+The goal is use API(Application Programming Interfaces) to fetch current weather data of the entire world.So how does api work? Basically, your app sends some data you wanted to a server, the server reads the data and performs the ap actions and sends it back to your app, the app reads it and changes into a readable data to you.
+ 
 
 
 ## What you will create
